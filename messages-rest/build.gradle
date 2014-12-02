@@ -1,0 +1,15 @@
+version = '1.0.1'
+
+dependencies {
+    compile files('../libs/org.amdatu.web.rest.jaxrs-1.0.5.jar')
+    compile project(':message-api')
+}
+
+jar {
+    manifest {
+        instruction 'Private-Package', 'nl.gridshore.tryout'
+        instruction 'Bundle-Vendor', 'Gridshore'
+        instruction 'Bundle-Description', 'MessageService REST api'
+        instruction 'Bundle-Activator', 'nl.gridshore.tryout.RESTActivator'
+    }
+}

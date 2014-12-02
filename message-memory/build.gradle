@@ -1,0 +1,14 @@
+version = '1.0.1'
+
+dependencies {
+    compile project(':message-api')
+}
+
+jar {
+    manifest {
+        instruction 'Private-Package', 'nl.gridshore.tryout'
+        instruction 'Bundle-Vendor', 'Gridshore'
+        instruction 'Bundle-Description', 'MessageService in memory implementation'
+        instruction 'Bundle-Activator', 'nl.gridshore.tryout.ImplActivator'
+    }
+}

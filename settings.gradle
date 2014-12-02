@@ -1,0 +1,1 @@
+include 'message-api', 'message-memory', 'message-client', 'messages-rest'

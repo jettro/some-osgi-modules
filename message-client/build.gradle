@@ -1,0 +1,15 @@
+version = '1.0.1'
+
+dependencies {
+    compile project(':message-api')
+    compile 'org.apache.felix:org.apache.felix.gogo.runtime:0.12.1'
+}
+
+jar {
+    manifest {
+        instruction 'Private-Package', 'nl.gridshore.tryout'
+        instruction 'Bundle-Vendor', 'Gridshore'
+        instruction 'Bundle-Description', 'MessageService client'
+        instruction 'Bundle-Activator', 'nl.gridshore.tryout.ClientActivator'
+    }
+}

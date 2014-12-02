@@ -1,0 +1,186 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE database SYSTEM "file:///System/Library/DTDs/CoreData.dtd">
+
+<database>
+    <databaseInfo>
+        <version>134481920</version>
+        <UUID>72D02258-4264-40D8-B72E-11A363093505</UUID>
+        <nextObjectID>116</nextObjectID>
+        <metadata>
+            <plist version="1.0">
+                <dict>
+                    <key>NSPersistenceFrameworkVersion</key>
+                    <integer>526</integer>
+                    <key>NSStoreModelVersionHashes</key>
+                    <dict>
+                        <key>LMCookieJar</key>
+                        <data>
+		Fttmf2L4PrGvKUF496+nqgVVGek45TjOe7sUMtjNg8I=
+		</data>
+                        <key>LMEnvironment</key>
+                        <data>
+		uzBoVFcO4YvR9/3ej4AJ1UOOsA/u5DKY2aemusoIseU=
+		</data>
+                        <key>LMEnvironmentDomain</key>
+                        <data>
+		yM1GPGHdquS8IWLtuczlNoqKhIhD9FW6IReSfFffJgs=
+		</data>
+                        <key>LMEnvironmentVariable</key>
+                        <data>
+		P8e0lYd5JZKRabS/eXVSOJ4oitilz67xtv+pLqW1Jqg=
+		</data>
+                        <key>LMEnvironmentVariableValue</key>
+                        <data>
+		my5hNPJ51oDCSa8EgdNxWAnRcDLcERUGjtuXnzhSxQ0=
+		</data>
+                        <key>LMKeyValue</key>
+                        <data>
+		bIXXbyYF2xAv2MXg8JTVFsslmMKuvsfnR86QdUcFkdM=
+		</data>
+                        <key>LMRequest</key>
+                        <data>
+		kYB6By9dZHqmH3YNw3h9tYPoxeG5ZWHPfhLXXp7OLFs=
+		</data>
+                        <key>LMRequestGroup</key>
+                        <data>
+		N3ml+gYVWc4m0LSGLnBDJ37p9isOc41y+TtaM0Eacrc=
+		</data>
+                        <key>LMRequestTreeItem</key>
+                        <data>
+		ak+hYb/lDeG55U0kgGvU5ej7HUltUj0RTrX5z/izNrs=
+		</data>
+                    </dict>
+                    <key>NSStoreModelVersionHashesVersion</key>
+                    <integer>3</integer>
+                    <key>NSStoreModelVersionIdentifiers</key>
+                    <array>
+                        <string>LMDocumentVersion3</string>
+                    </array>
+                </dict>
+            </plist>
+        </metadata>
+    </databaseInfo>
+    <object type="LMREQUEST" id="z102">
+        <attribute name="uuid" type="string">B6B299F8-F56B-4D6C-BAE5-F473A8319CB9</attribute>
+        <attribute name="url" type="string">["http:\\/\\/",{"name":"com.luckymarmot.Paw.DynamicValue","data":"62706C6973743030D40102030405061D1E582476657273696F6E58246F626A65637473592461726368697665725424746F7012000186A0A507080D111855246E756C6CD2090A0B0C5F1013656E7669726F6E6D656E745661726961626C655624636C61737380028004D20A0E0F10594E532E737472696E6780035F102438383743303539312D433330412D343235442D393444352D324236453943304630434132D2121314155A24636C6173736E616D655824636C61737365735F100F4E534D757461626C65537472696E67A3141617584E53537472696E67584E534F626A656374D21213191A5F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C7565A31B1C175F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C75655E4C4D44796E616D696356616C75655F100F4E534B657965644172636869766572D11F2054726F6F74800100080011001A0023002D00320037003D00430048005E006500670069006E0078007A00A100A600B100BA00CC00D000D900E200E7010B010F0133014201540157015C000000000000020100000000000000210000000000000000000000000000015E"},":",{"name":"com.luckymarmot.Paw.DynamicValue","data":"62706C6973743030D40102030405061D1E582476657273696F6E58246F626A65637473592461726368697665725424746F7012000186A0A507080D111855246E756C6CD2090A0B0C5F1013656E7669726F6E6D656E745661726961626C655624636C61737380028004D20A0E0F10594E532E737472696E6780035F102431313545323441362D364439342D343232412D413032422D463935464337373033453142D2121314155A24636C6173736E616D655824636C61737365735F100F4E534D757461626C65537472696E67A3141617584E53537472696E67584E534F626A656374D21213191A5F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C7565A31B1C175F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C75655E4C4D44796E616D696356616C75655F100F4E534B657965644172636869766572D11F2054726F6F74800100080011001A0023002D00320037003D00430048005E006500670069006E0078007A00A100A600B100BA00CC00D000D900E200E7010B010F0133014201540157015C000000000000020100000000000000210000000000000000000000000000015E"},"\\/message"]</attribute>
+        <attribute name="timeoutinterval" type="float">30</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">GET</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">obtain message</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z113"></relationship>
+    </object>
+    <object type="LMREQUEST" id="z103">
+        <attribute name="uuid" type="string">EB019D59-B6A6-4C71-9038-B811B7C3D941</attribute>
+        <attribute name="url" type="string">["http:\\/\\/",{"name":"com.luckymarmot.Paw.DynamicValue","data":"62706C6973743030D40102030405061D1E582476657273696F6E58246F626A65637473592461726368697665725424746F7012000186A0A507080D111855246E756C6CD2090A0B0C5F1013656E7669726F6E6D656E745661726961626C655624636C61737380028004D20A0E0F10594E532E737472696E6780035F102438383743303539312D433330412D343235442D393444352D324236453943304630434132D2121314155A24636C6173736E616D655824636C61737365735F100F4E534D757461626C65537472696E67A3141617584E53537472696E67584E534F626A656374D21213191A5F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C7565A31B1C175F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C75655E4C4D44796E616D696356616C75655F100F4E534B657965644172636869766572D11F2054726F6F74800100080011001A0023002D00320037003D00430048005E006500670069006E0078007A00A100A600B100BA00CC00D000D900E200E7010B010F0133014201540157015C000000000000020100000000000000210000000000000000000000000000015E"},":",{"name":"com.luckymarmot.Paw.DynamicValue","data":"62706C6973743030D40102030405061D1E582476657273696F6E58246F626A65637473592461726368697665725424746F7012000186A0A507080D111855246E756C6CD2090A0B0C5F1013656E7669726F6E6D656E745661726961626C655624636C61737380028004D20A0E0F10594E532E737472696E6780035F102431313545323441362D364439342D343232412D413032422D463935464337373033453142D2121314155A24636C6173736E616D655824636C61737365735F100F4E534D757461626C65537472696E67A3141617584E53537472696E67584E534F626A656374D21213191A5F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C7565A31B1C175F10214C4D456E7669726F6E6D656E745661726961626C6544796E616D696356616C75655E4C4D44796E616D696356616C75655F100F4E534B657965644172636869766572D11F2054726F6F74800100080011001A0023002D00320037003D00430048005E006500670069006E0078007A00A100A600B100BA00CC00D000D900E200E7010B010F0133014201540157015C000000000000020100000000000000210000000000000000000000000000015E"},"\\/message"]</attribute>
+        <attribute name="timeoutinterval" type="float">30</attribute>
+        <attribute name="storecookies" type="bool">1</attribute>
+        <attribute name="sendcookies" type="bool">1</attribute>
+        <attribute name="redirectmethod" type="bool">0</attribute>
+        <attribute name="redirectauthorization" type="bool">0</attribute>
+        <attribute name="method" type="string">POST</attribute>
+        <attribute name="followredirects" type="bool">0</attribute>
+        <attribute name="body" type="string">["{\\n\\"message\\":\\"Dit wilde ik nog laten zien dat het werkt, hallo Roberto.\\"\\n}"]</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">obtain message Duplicate</attribute>
+        <relationship name="parent" type="0/1" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="children" type="0/0" destination="LMREQUESTTREEITEM"></relationship>
+        <relationship name="headers" type="0/0" destination="LMKEYVALUE" idrefs="z112 z111"></relationship>
+    </object>
+    <object type="LMENVIRONMENT" id="z104">
+        <attribute name="uuid" type="string">37D48838-B789-417E-9E41-375F8C2D699C</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">disk.coenradie</attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z106"></relationship>
+        <relationship name="variablesvalues" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z108 z107"></relationship>
+    </object>
+    <object type="LMENVIRONMENT" id="z105">
+        <attribute name="uuid" type="string">613C5575-509B-4537-93A2-6EB19ED5417C</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Default</attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z106"></relationship>
+        <relationship name="variablesvalues" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z110 z109"></relationship>
+    </object>
+    <object type="LMENVIRONMENTDOMAIN" id="z106">
+        <attribute name="uuid" type="string">09977AC0-9424-4EFC-9444-753EF765864F</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Default Environments</attribute>
+        <relationship name="environments" type="0/0" destination="LMENVIRONMENT" idrefs="z105 z104"></relationship>
+        <relationship name="variables" type="0/0" destination="LMENVIRONMENTVARIABLE" idrefs="z114 z115"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLEVALUE" id="z107">
+        <attribute name="value" type="string">disk.coenradie.com</attribute>
+        <relationship name="environment" type="1/1" destination="LMENVIRONMENT" idrefs="z104"></relationship>
+        <relationship name="variable" type="1/1" destination="LMENVIRONMENTVARIABLE" idrefs="z114"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLEVALUE" id="z108">
+        <attribute name="value" type="string">8080</attribute>
+        <relationship name="environment" type="1/1" destination="LMENVIRONMENT" idrefs="z104"></relationship>
+        <relationship name="variable" type="1/1" destination="LMENVIRONMENTVARIABLE" idrefs="z115"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLEVALUE" id="z109">
+        <attribute name="value" type="string">localhost</attribute>
+        <relationship name="environment" type="1/1" destination="LMENVIRONMENT" idrefs="z105"></relationship>
+        <relationship name="variable" type="1/1" destination="LMENVIRONMENTVARIABLE" idrefs="z114"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLEVALUE" id="z110">
+        <attribute name="value" type="string">8000</attribute>
+        <relationship name="environment" type="1/1" destination="LMENVIRONMENT" idrefs="z105"></relationship>
+        <relationship name="variable" type="1/1" destination="LMENVIRONMENTVARIABLE" idrefs="z115"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z111">
+        <attribute name="value" type="string">application/json</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">Content-Type</attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z103"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z112">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z103"></relationship>
+    </object>
+    <object type="LMKEYVALUE" id="z113">
+        <attribute name="value" type="string"></attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string"></attribute>
+        <attribute name="enabled" type="bool">1</attribute>
+        <relationship name="groupforbodyparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforheaders" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="groupforurlparameters" type="0/1" destination="LMREQUESTGROUP"></relationship>
+        <relationship name="request" type="0/1" destination="LMREQUEST" idrefs="z102"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLE" id="z114">
+        <attribute name="uuid" type="string">887C0591-C30A-425D-94D5-2B6E9C0F0CA2</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">host</attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z106"></relationship>
+        <relationship name="values" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z107 z109"></relationship>
+    </object>
+    <object type="LMENVIRONMENTVARIABLE" id="z115">
+        <attribute name="uuid" type="string">115E24A6-6D94-422A-A02B-F95FC7703E1B</attribute>
+        <attribute name="order" type="int64">0</attribute>
+        <attribute name="name" type="string">port</attribute>
+        <relationship name="domain" type="0/1" destination="LMENVIRONMENTDOMAIN" idrefs="z106"></relationship>
+        <relationship name="values" type="0/0" destination="LMENVIRONMENTVARIABLEVALUE" idrefs="z110 z108"></relationship>
+    </object>
+    <object type="LMCOOKIEJAR" id="z116">
+        <attribute name="uuid" type="string">7CB8F87C-1B09-480F-8C9A-1FF698D3FB59</attribute>
+        <attribute name="order" type="int64">1</attribute>
+        <attribute name="name" type="string">Default Cookie Jar</attribute>
+    </object>
+</database>

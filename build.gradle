@@ -1,0 +1,25 @@
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'osgi'
+    group = 'nl.gridshore.osgi'
+    version = '1.0'
+
+    repositories {
+        mavenCentral()
+    }
+
+    configurations {
+        provided
+    }
+
+    dependencies {
+        compile('org.osgi:org.osgi.core:4.2.0') {
+            exclude module: 'org.osgi.compendium'
+        }
+
+        compile('org.apache.felix:org.apache.felix.dependencymanager:3.2.0') {
+            exclude module: 'org.osgi.core'
+            exclude module: 'org.osgi.compendium'
+        }
+    }
+}
